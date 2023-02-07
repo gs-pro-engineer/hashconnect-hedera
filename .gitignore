@@ -1,0 +1,21 @@
+node_modules
+npm-debug.log
+*.log
+output/
+build/
+keys/
+key.pem
+cert.pem
+
+.vscode/
+.nyc_output/
+
+# Config
+
+config.json
+config.bat
+config.sh
+gc.json
+
+# Babel
+.babel_cache/
